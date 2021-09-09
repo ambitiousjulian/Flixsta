@@ -1,0 +1,6 @@
+framework module Pods_Flixsta_FlixstaUITests {
+  umbrella header "Pods-Flixsta-FlixstaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
